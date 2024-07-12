@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Nombre - Ropa Artesanal</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: black;
+            color: white;
+            padding: 20px;
+        }
+        h1, h2 {
+            font-family: 'Arial Black', sans-serif;
+            text-align: center;
+        }
+        .graffiti {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 24px;
+            color: #FFD700; /* color dorado */
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        .contacto {
+            margin-top: 30px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Tu Nombre</h1>
+            <h2>Ropa Artesanal</h2>
+        </header>
+        
+        <section>
+            <h3>¡Bienvenidos a mi tienda online!</h3>
+            <p>Aquí podrás encontrar ropa única y exclusiva diseñada por mí.</p>
+            <p>¡Explora y descubre tu estilo!</p>
+        </section>
+        
+        <section>
+            <h3>Productos Destacados</h3>
+            <p>Próximamente...</p>
+        </section>
+        
+        <section class="contacto">
+            <h3>Contacto</h3>
+            <p>Puedes contactarme para cualquier consulta o pedido personalizado:</p>
+            <p>Email: tuemail@example.com</p>
+            <p>Teléfono: +123456789</p>
+        </section>
+        
+        <footer>
+            <p>© 2024 Tu Nombre. Todos los derechos reservados.</p>
+        </footer>
+    </div>
+</body>
+</html>
